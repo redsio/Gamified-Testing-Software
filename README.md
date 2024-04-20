@@ -1,5 +1,5 @@
 # Gamified-Testing-Software
-A Software Engineering project using JavaScript to simulate a local server and parse text files to run an educational quiz/game.
+A Software Engineering project using JavaScript to simulate a local server and parse text files to run an educational quiz/game about mobile security.
 
 In order to run this file, you will need to have VSCode and the Live Server extension. Open the main folder in VSCode and start a Live Server, and the game should open.
 
