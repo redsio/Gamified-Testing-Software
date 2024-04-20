@@ -9,4 +9,4 @@ When running the game, use WASD to move and attack the monsters. When you touch 
 
 After the game is complete, you can go to review mode to see the specific questions that you answered incorrectly.
 
-The user's best score is saved for furute sessions.
+The user's best score is saved for future sessions.
